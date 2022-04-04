@@ -1,0 +1,80 @@
+Student: 2123323 - Nguyen Hieu Dai
+	GPA=9.94, Telephone=098-6018034
+	Email=nhdai@lemon.com.vn
+	DOB=11/10/2002
+	Address=9 Ngo Quyen , Ward 01, District Tan Phu, Ho Chi Minh city
+Student: 2107216 - Tran Ngoc Thang
+	GPA=8.94, Telephone=079-4925756
+	Email=tnthang@yahoo.com.vn
+	DOB=13/1/2002
+	Address=48 Dinh Tien Hoang, Ward 04, District Nha Be, Ho Chi Minh city
+Student: 2127735 - Hoang Bao Duong
+	GPA=1.44, Telephone=089-0578930
+	Email=hbduong@yahoo.com.vn
+	DOB=29/8/2009
+	Address=1 Ngo Quyen, Ward Tan Dinh, District Cu Chi , Ho Chi Minh city
+Student: 2119680 - Ho Huy Khai
+	GPA=4.99, Telephone=077-3826945
+	Email=hhkhai@ak.edu.vn
+	DOB=24/11/2005
+	Address=8 Ly Thai To, Ward Hiep Thanh, District Phu Nhuan, Ho Chi Minh city
+Student: 2108933 - Nguyen Manh Dai
+	GPA=6.27, Telephone=076-0838864
+	Email=nmdai@yahoo.com.vn
+	DOB=1/9/2008
+	Address=16 Ngo Thi Nham, Ward Tan Thoi Hiep, District 6, Ho Chi Minh city
+Student: 2119249 - Ho Hieu Nguyen
+	GPA=9.09, Telephone=091-0656289
+	Email=hhnguyen@lemon.com.vn
+	DOB=4/6/2006
+	Address=45 Chu Van An, Ward Tan Dinh, District Cu Chi , Ho Chi Minh city
+Student: 2116704 - Ho Bao Chi
+	GPA=9.4, Telephone=081-6867410
+	Email=hbchi@email.com.vn
+	DOB=5/12/2000
+	Address=23 Phan Van Tri, Ward 17, District 6, Ho Chi Minh city
+Student: 2115157 - Bui Khai Nguyen
+	GPA=8.38, Telephone=085-4171602
+	Email=bknguyen@lemon.com.vn
+	DOB=22/8/2009
+	Address=32 Nguyen Cuu Van, Ward 16, District Binh Tan, Ho Chi Minh city
+Student: 2126117 - Nguyen Bao Thang
+	GPA=1.15, Telephone=097-5517307
+	Email=nbthang@email.com.vn
+	DOB=27/4/2003
+	Address=16 Vo Thi Sau, Ward Nguyen Cu Trinh, District 11, Ho Chi Minh city
+Student: 2103170 - Ho Dinh Nha
+	GPA=4.11, Telephone=078-0787309
+	Email=hdnha@lemon.com.vn
+	DOB=4/12/2006
+	Address=45 Nguyen Chi Thanh, Ward 03, District 5, Ho Chi Minh city
+Student: 2111006 - Duong Thu Quyen
+	GPA=9.53, Telephone=037-6142242
+	Email=dtquyen@apple.com.vn
+	DOB=10/6/2005
+	Address=5 Au Duong Lan, Ward 13, District 1, Ho Chi Minh city
+Student: 2129031 - Duong Hieu Quyen
+	GPA=0.96, Telephone=094-2019305
+	Email=dhquyen@hcmus.edu.vn
+	DOB=23/11/2000
+	Address=10 Phan Van Tri, Ward Tan Chanh Hiep, District Cu Chi , Ho Chi Minh city
+Student: 2129006 - Ho Anh Chi
+	GPA=4.31, Telephone=077-0984113
+	Email=hachi@garena.com.vn
+	DOB=12/3/2007
+	Address=14 Duong Quang Ham, Ward Co Giang, District 3, Ho Chi Minh city
+Student: 2112608 - Nguyen Hoai Duong
+	GPA=8.35, Telephone=089-2546984
+	Email=nhduong@apple.com.vn
+	DOB=3/4/2001
+	Address=23 Nguyen Cuu Van, Ward Hiep Thanh, District 3, Ho Chi Minh city
+Student: 2104632 - Tran Manh Cau
+	GPA=5.26, Telephone=085-3431898
+	Email=tmcau@email.com.vn
+	DOB=9/8/2007
+	Address=12 Duong Quang Ham, Ward 19, District Cu Chi , Ho Chi Minh city
+Student: 2129465 - Pham Manh Nha
+	GPA=4.72, Telephone=091-1563548
+	Email=pmnha@yahoo.com.vn
+	DOB=23/12/2003
+	Address=16 To Hien Thanh, Ward 15, District 3, Ho Chi Minh city

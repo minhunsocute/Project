@@ -15,7 +15,15 @@ private:
 	string address;
 public:
 	//------CONSTRUCTOR-------//
-	Student();
+	Student(){
+		id = "";
+		name = "";
+		GPA = 0.0;
+		telephone = "";
+		eMail = "";
+		DOB = "";
+		address = "";
+	}
 	Student(string ID, string Name, double gpa, string Telephone, string Email, string dob, string Address) {
 		this->id = ID;
 		this->name = Name;
@@ -25,7 +33,7 @@ public:
 		this->DOB = dob;
 		this->address = Address;
 	}
-	~Student();
+	~Student(){}
 public:
 	//------GET-------//
 	string getID() { return id; }
@@ -42,6 +50,6 @@ public:
 	void setGPA(double val) { this->GPA = val; }
 	void setTelephone(string val) { this->telephone = val; }
 	void setEmail(string val) { this->eMail = val; }
-	void setDOB(string val) { this->eMail = val; }
+	void setDOB(string val) { this->DOB = val; }
 	void setAddress(string val) { this->address = val; }
 };

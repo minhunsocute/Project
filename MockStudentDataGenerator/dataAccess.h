@@ -9,25 +9,37 @@ using namespace std;
 
 class DataAccess{
 private:
-	vector<string> id;
-	vector<string> name;
-	vector<double> gpa;
+	vector<string> first_name;
+	vector<string> middle_name;
+	vector<string> last_name;
 	vector<string> telephone;
 	vector<string> eMail;
-	vector<string> dob;
-	vector<string> address;
+	vector<string> Street;
+	vector<string> Ward;
+	vector<string> District;
 public:
 	DataAccess();
 	~DataAccess();
 public :
-	vector<string> getId() { return id; }
-	vector<string> getName() { return name; }
-	vector<double> getGpa() { return gpa; }
+	vector<string> getFirstName() { return first_name; }
+	vector<string> getMiddleName() { return middle_name; }
+	vector<string> getLastName() { return last_name; }
+	vector<string> getStreet() { return Street; }
+	vector<string> getWard() { return Ward; }
+	vector<string> getDistrict() { return District; }
 	vector<string> getTelephone() { return telephone; }
 	vector<string> getEmail() { return eMail; }
-	vector<string> getDob() { return dob; }
-	vector<string> getAddress() { return address; }
+	
 public:
-	void readFile();
+	vector<Student> readFileStudent();
+	void readFileFirstName();
+	void readFileMiddleName();
+	void readFileLastName();
+	void readFileStreet();
+	void readFileWard();
+	void readFileDistrict();
+	void readFileTelePhone();
+	void readFileEmail();
+	void readAllFile();
 	double convertStringtoDouble(string);
 };
