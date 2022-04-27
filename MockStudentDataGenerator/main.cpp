@@ -4,7 +4,7 @@
 
 void outFile(randomStudentGenerator r) {
 	ofstream fout;
-	fout.open("data/Student.txt");
+	fout.open("Student.txt");
 	for (auto it : r.getAll()) {
 		fout << "Student: " << it.getID() << " - " << it.getName() << "\n";
 		fout << "\tGPA=" << it.getGPA() << ", Telephone=" << it.getTelePhone() << "\n";

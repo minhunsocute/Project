@@ -58,3 +58,28 @@ Student: 2124109 - Ho Gia Hieu
 	Email=hghieu@student.hcmus.edu.vn
 	DOB=9/4/2004
 	Address=40 Nguyen Cuu Van, Ward Ben Thanh, District Go Vap , Ho Chi Minh city
+Student: 2101097 - Bui Thanh Cau
+	GPA=9.87, Telephone=091-6171201
+	Email=btcau@hcmus.edu.vn
+	DOB=18/9/2000
+	Address=26 Thanh Thai, Ward 17, District Tan Binh, Ho Chi Minh city
+Student: 2126261 - Do mai Hung
+	GPA=6.49, Telephone=076-1830864
+	Email=dçhung@apple.com.vn
+	DOB=17/3/2009
+	Address=18 Thanh Thai, Ward 15, District Tan Phu, Ho Chi Minh city
+Student: 2131535 - Do Cong Hung
+	GPA=2.93, Telephone=084-5394227
+	Email=dchung@ak.edu.vn
+	DOB=1/8/2006
+	Address=35 Ngo Thi Nham, Ward An Phu Dong, District Can Gio, Ho Chi Minh city
+Student: 2102403 - Nguyen Khanh Hiep
+	GPA=8.75, Telephone=088-2422532
+	Email=nkhiep@gmail.com.vn
+	DOB=29/9/2009
+	Address=21 Vo Thi Sau, Ward Ben Thanh, District Tan Phu, Ho Chi Minh city
+Student: 2109989 - Dang Anh Cau
+	GPA=9.96, Telephone=086-2773478
+	Email=dacau@student.hcmus.edu.vn
+	DOB=18/4/2005
+	Address=16 Hoang Hoa Tham, Ward 16, District 8, Ho Chi Minh city
