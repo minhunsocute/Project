@@ -11,6 +11,7 @@ private:
 	int month;
 	int year;
 public:
+	Date() {}
 	int getDay() { return day; }
 	int getMonth() { return month; }
 	int getYear() { return year; }

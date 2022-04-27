@@ -78,3 +78,93 @@ Student: 2129465 - Pham Manh Nha
 	Email=pmnha@yahoo.com.vn
 	DOB=23/12/2003
 	Address=16 To Hien Thanh, Ward 15, District 3, Ho Chi Minh city
+Student: 2102344 - Le Quynh Hoang
+	GPA=8.89, Telephone=091-0773223
+	Email=lqhoang@gmail.com.vn
+	DOB=20/3/2001
+	Address=6 Ngo Thoi Nhiem, Ward Tan Hung Thuan, District 8, Ho Chi Minh city
+Student: 2116378 - Duong Gia Anh
+	GPA=9.49, Telephone=089-6355547
+	Email=dganh@apple.com.vn
+	DOB=15/10/2002
+	Address=40 Hoang Hoa Tham, Ward 13, District Nha Be, Ho Chi Minh city
+Student: 2118564 - Do Duy Dung
+	GPA=8.6, Telephone=096-0666270
+	Email=dddung@student.hcmus.edu.vn
+	DOB=11/3/2001
+	Address=25 Ngo Thoi Nhiem, Ward 04, District Binh Tan, Ho Chi Minh city
+Student: 2123433 - Ngo Huy Chi
+	GPA=8.94, Telephone=070-8485453
+	Email=nhchi@ak.edu.vn
+	DOB=17/1/2006
+	Address=42 Chu Van An, Ward Ben Nghe, District Tan Binh, Ho Chi Minh city
+Student: 2117288 - Phan Thuy Duy
+	GPA=3.55, Telephone=098-3207650
+	Email=ptduy@gmail.com.vn
+	DOB=14/7/2005
+	Address=1 Chan Hung , Ward 04, District 9, Ho Chi Minh city
+Student: 2112371 - Dang Dinh Duy
+	GPA=7.4, Telephone=094-0949562
+	Email=ddduy@student.hcmus.edu.vn
+	DOB=8/7/2002
+	Address=7 Duong Quang Ham, Ward 19, District Tan Binh, Ho Chi Minh city
+Student: 2129090 - Le Hoang Quyen
+	GPA=8.82, Telephone=038-4935441
+	Email=lhquyen@email.com.vn
+	DOB=16/7/2001
+	Address=22 Quang Trung, Ward An Phu Dong, District Go Vap , Ho Chi Minh city
+Student: 2117665 - Hoang Duc Huy
+	GPA=3.73, Telephone=083-0101478
+	Email=hdhuy@lemon.com.vn
+	DOB=28/5/2008
+	Address=13 Ngo Thoi Nhiem, Ward Tan Thoi Hiep, District 8, Ho Chi Minh city
+Student: 2113977 - Ly Anh Cau
+	GPA=6.39, Telephone=094-5128999
+	Email=lacau@student.hcmus.edu.vn
+	DOB=-858993460/-858993460/-858993460
+	Address=16 Thanh Thai, Ward 04, District 10, Ho Chi Minh city
+Student: 2102403 - Bui Thien  Vu
+	GPA=6.4, Telephone=070-2784394
+	Email=bt@Vu@ak.edu.vn
+	DOB=-858993460/-858993460/-858993460
+	Address=49 Xo Viet Nghe Tinh , Ward 13, District Binh Thanh, Ho Chi Minh city
+Student: 2127843 - Hoang Duc Quan
+	GPA=6.24, Telephone=082-3390563
+	Email=hdquan@ak.edu.vn
+	DOB=-858993460/-858993460/-858993460
+	Address=24 To Hien Thanh, Ward Ben Thanh, District Nha Be, Ho Chi Minh city
+Student: 2108495 - Dang Thanh Anh
+	GPA=9.32, Telephone=094-9627431
+	Email=dtanh@hcmus.edu.vn
+	DOB=-858993460/-858993460/-858993460
+	Address=34 Dinh Tien Hoang, Ward Ben Nghe, District Can Gio, Ho Chi Minh city
+Student: 2104860 - Tran Lan Vu
+	GPA=5.39, Telephone=076-9086106
+	Email=tlvu@ak.edu.vn
+	DOB=-858993460/-858993460/-858993460
+	Address=50 To Hien Thanh, Ward 03, District 8, Ho Chi Minh city
+Student: 2107185 - Dang Dinh Vu
+	GPA=6.67, Telephone=093-5367130
+	Email=ddvu@ak.edu.vn
+	DOB=-858993460/-858993460/-858993460
+	Address=14 Nguyen Trung Truc, Ward Nguyen Cu Trinh, District 1, Ho Chi Minh city
+Student: 2102750 - Tran Cong Lai
+	GPA=0.46, Telephone=096-3915442
+	Email=tclai@gmail.com.vn
+	DOB=-858993460/-858993460/-858993460
+	Address=50 Nguyen Chi Thanh, Ward Thanh Xuan, District Tan Phu, Ho Chi Minh city
+Student: 2110427 - Nguyen Cong Dai
+	GPA=3.24, Telephone=096-8161617
+	Email=ncdai@yahoo.com.vn
+	DOB=-858993460/-858993460/-858993460
+	Address=37 Nguyen Binh Khiem , Ward An Phu Dong, District 1, Ho Chi Minh city
+Student: 2101926 - Vu Lan Quan
+	GPA=4.2, Telephone=081-3032694
+	Email=vlquan@gmail.com.vn
+	DOB=-858993460/-858993460/-858993460
+	Address=10 Tran Quoc Tuan, Ward 03, District 8, Ho Chi Minh city
+Student: 2120734 - Do Anh Man
+	GPA=4.33, Telephone=088-0885137
+	Email=daman@ak.edu.vn
+	DOB=-858993460/-858993460/-858993460
+	Address=12 Ngo Thoi Nhiem, Ward Co Giang, District Tan Phu, Ho Chi Minh city
